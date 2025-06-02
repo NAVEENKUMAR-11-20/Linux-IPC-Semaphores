@@ -1,8 +1,8 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 ```
-Developed by:MAGESH BOOPATHI.M
-Register number:212224230145
+Developed by: NAVEEN KUMAR P
+Register number:212224240102
 ```
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
